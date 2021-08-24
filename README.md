@@ -1,7 +1,7 @@
 # Event Calendar in Django
 
 # Demo
-![image](https://user-images.githubusercontent.com/39632170/123464377-88ec3600-d60e-11eb-8df6-88a138d23126.png)
+![image](https://i.imgur.com/OCx3thF.png)
 
 
 ## How To Setup
